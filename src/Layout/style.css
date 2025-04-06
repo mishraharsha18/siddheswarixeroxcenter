@@ -1,0 +1,5 @@
+.ant-menu-item-selected {
+    background: #1890ff; /* Change the background if needed */
+    border-radius: 8px; /* Add the border radius here */
+    transition: all 0.3s ease;
+}
